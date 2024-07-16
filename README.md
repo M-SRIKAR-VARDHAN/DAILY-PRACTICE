@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
