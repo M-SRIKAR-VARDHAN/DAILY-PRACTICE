@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0283-move-zeroes) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
