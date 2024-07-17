@@ -18,19 +18,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -43,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sorting
 |  |
