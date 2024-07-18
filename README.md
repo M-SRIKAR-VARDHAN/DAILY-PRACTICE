@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
