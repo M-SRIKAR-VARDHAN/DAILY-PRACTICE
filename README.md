@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0055-jump-game) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0054-spiral-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Simulation
 |  |
 | ------- |
