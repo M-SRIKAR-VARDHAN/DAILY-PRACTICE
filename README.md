@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
+| [2502-sort-the-people](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
