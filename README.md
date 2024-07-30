@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
 |  |
 | ------- |
