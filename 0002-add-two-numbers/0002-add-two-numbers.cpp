@@ -21,7 +21,7 @@ public:
          ListNode* temp=head;
          int sum=0;
         
-        while(l1!=NULL||l2!=NULL||carry!=0){
+        while(l1!=NULL||l2!=NULL){
             
          int x = (l1 != nullptr) ? l1->val : 0;
             int y = (l2 != nullptr) ? l2->val : 0;
@@ -35,6 +35,9 @@ public:
         if(l2!=NULL){
             l2=l2->next;
         }
+        }
+        if(carry){
+            temp->next = new ListNode(carry);
         }
         head=head->next;
         return head;
