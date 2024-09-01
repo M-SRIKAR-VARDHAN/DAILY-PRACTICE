@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0013-roman-to-integer) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
