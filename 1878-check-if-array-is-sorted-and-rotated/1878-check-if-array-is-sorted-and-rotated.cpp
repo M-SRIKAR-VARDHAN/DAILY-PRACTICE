@@ -1,20 +1,25 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        int n = nums.size();
-        int count = 0;
-
-        // Loop through the array to count the number of drops (decreasing points)
-        for (int i = 0; i < n; i++) {
-            if (nums[i] > nums[(i + 1) % n]) {
-                count++;
+        int a=0;
+        for(int i=0;i<nums.size()-1;i++){
+            if(nums[i+1]<nums[i]){
+                a=i+1;
+                break;
             }
-            // If there is more than one drop, the array cannot be rotated sorted
-            if (count > 1) {
+        }
+        if(a==0){
+            return true;
+        }
+        for(int i=a;i<nums.size()-1;i++){
+            if(!(nums[i+1]>=nums[i])){
                 return false;
             }
         }
-        
-        return true; // Return true if at most one drop is found
+        if(nums.back()>nums[0]){
+            return false;
+        }
+        return true;
+
     }
 };
