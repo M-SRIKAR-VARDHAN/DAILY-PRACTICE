@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2502-sort-the-people) |
 ## Hash Table
