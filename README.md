@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -89,15 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -149,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
