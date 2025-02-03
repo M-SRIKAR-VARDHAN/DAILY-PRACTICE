@@ -8,11 +8,9 @@ using namespace std;
 class Solution {
   public:
     long long count(int n) {
-        // your code here
-       long long edges = (n * (n - 1)) / 2;
-        // Calculate the total number of graphs using pow
-        long long totalGraphs = pow(2, edges);
-        return totalGraphs;
+    int y=(n*(n-1))/2;
+      long long int x=pow(2,y);
+      return x;
     }
 };
 
@@ -25,7 +23,9 @@ int main() {
         cin >> n;
         Solution ob;
         cout << ob.count(n) << "\n";
-    }
+    
+cout << "~" << "\n";
+}
 
     return 0;
 }
