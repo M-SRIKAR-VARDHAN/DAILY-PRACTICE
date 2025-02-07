@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1207-delete-nodes-and-return-forest) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/2502-sort-the-people) |
 ## Binary Search
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
