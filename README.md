@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 ## Recursion
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0234-palindrome-linked-list) |
 ## Breadth-First Search
