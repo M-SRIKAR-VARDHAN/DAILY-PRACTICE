@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Simulation
