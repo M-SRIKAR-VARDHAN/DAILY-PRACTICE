@@ -193,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/M-SRIKAR-VARDHAN/DAILY-PRACTICE/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
